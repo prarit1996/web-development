@@ -1,8 +1,5 @@
 from collections import defaultdict
-<<<<<<< HEAD
 import heapq
-=======
->>>>>>> main
 class Graph:
     def __init__(self,v):
         self.v=v
